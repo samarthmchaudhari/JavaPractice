@@ -9,6 +9,7 @@ public class Main {
 		m1.setMobileType("Android");
 		m1.setMobileCompany("MI");
 
+		System.out.println("Main class");
 		
 	}
 
